@@ -1,0 +1,11 @@
+# NIBWOZ Better Img: only the files the plugin needs are published.
+# Everything else in the local folder (docs, internal notes, tests, builds, zips) stays private.
+/*
+!/.gitignore
+!/nibwoz-better-img.php
+!/uninstall.php
+!/readme.txt
+!/LICENSE
+!/includes/
+!/assets/
+!/languages/
